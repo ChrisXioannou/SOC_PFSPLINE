@@ -18,6 +18,9 @@ This project simulates a secure, virtualized network environment using **pfSense
 - Installed and configured Active Directory to manage user accounts and security policies.
 - Used Microsoft’s media creation tool to create installation support and ISO.
 
+### BadBlood: 
+- Used BadBlood to populate the directory with a large number of users, groups, and organizational units, deliberately filled with errors and anomalies mimicing a real-world enterprise scenario with  This tool is crucial for creating a complex and realistic environment for security training and testing. The setup with BadBlood included users, misconfigurations. GitHub - BadBlood.  https://github.com/davidprowe/BadBlood
+
 ### Microsoft Workstation
 - A separate virtual machine was set up using Microsoft Workstation ISO to simulate an end-user environment within the SOC. This workstation allowed for the deployment and testing of security policies and tools from the perspective of a regular user.
 
