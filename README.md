@@ -5,8 +5,6 @@ This project simulates a secure, virtualized network environment using **pfSense
  
 ## Environments Used
 - **Hyper-V**: Used for virtual machine management and network setup.
-  **Virtual Machines Created:**
-      screenshot
 
 
 ## Configuration and Tools
